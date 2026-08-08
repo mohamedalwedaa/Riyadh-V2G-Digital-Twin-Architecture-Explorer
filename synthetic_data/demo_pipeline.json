@@ -1,0 +1,170 @@
+[
+  {
+    "hour": 0,
+    "load_gw": 14.3,
+    "frequency_hz": 59.99,
+    "red_nodes": 7,
+    "v2g_discharge_mw": 1.7
+  },
+  {
+    "hour": 1,
+    "load_gw": 13.6,
+    "frequency_hz": 59.98,
+    "red_nodes": 7,
+    "v2g_discharge_mw": 1.8
+  },
+  {
+    "hour": 2,
+    "load_gw": 11.9,
+    "frequency_hz": 59.99,
+    "red_nodes": 2,
+    "v2g_discharge_mw": 0.6
+  },
+  {
+    "hour": 3,
+    "load_gw": 11.0,
+    "frequency_hz": 60.0,
+    "red_nodes": 6,
+    "v2g_discharge_mw": 5.6
+  },
+  {
+    "hour": 4,
+    "load_gw": 9.6,
+    "frequency_hz": 60.02,
+    "red_nodes": 5,
+    "v2g_discharge_mw": 5.2
+  },
+  {
+    "hour": 5,
+    "load_gw": 8.1,
+    "frequency_hz": 60.03,
+    "red_nodes": 3,
+    "v2g_discharge_mw": 0.6
+  },
+  {
+    "hour": 6,
+    "load_gw": 8.4,
+    "frequency_hz": 60.02,
+    "red_nodes": 2,
+    "v2g_discharge_mw": 5.4
+  },
+  {
+    "hour": 7,
+    "load_gw": 8.5,
+    "frequency_hz": 60.0,
+    "red_nodes": 2,
+    "v2g_discharge_mw": 6.4
+  },
+  {
+    "hour": 8,
+    "load_gw": 9.5,
+    "frequency_hz": 60.02,
+    "red_nodes": 1,
+    "v2g_discharge_mw": 6.0
+  },
+  {
+    "hour": 9,
+    "load_gw": 10.7,
+    "frequency_hz": 60.01,
+    "red_nodes": 4,
+    "v2g_discharge_mw": 2.1
+  },
+  {
+    "hour": 10,
+    "load_gw": 12.5,
+    "frequency_hz": 60.01,
+    "red_nodes": 5,
+    "v2g_discharge_mw": 0.8
+  },
+  {
+    "hour": 11,
+    "load_gw": 13.7,
+    "frequency_hz": 60.0,
+    "red_nodes": 4,
+    "v2g_discharge_mw": 5.5
+  },
+  {
+    "hour": 12,
+    "load_gw": 13.8,
+    "frequency_hz": 59.99,
+    "red_nodes": 4,
+    "v2g_discharge_mw": 7.5
+  },
+  {
+    "hour": 13,
+    "load_gw": 16.9,
+    "frequency_hz": 59.99,
+    "red_nodes": 8,
+    "v2g_discharge_mw": 49.6
+  },
+  {
+    "hour": 14,
+    "load_gw": 15.2,
+    "frequency_hz": 60.0,
+    "red_nodes": 4,
+    "v2g_discharge_mw": 43.2
+  },
+  {
+    "hour": 15,
+    "load_gw": 13.7,
+    "frequency_hz": 59.99,
+    "red_nodes": 5,
+    "v2g_discharge_mw": 50.8
+  },
+  {
+    "hour": 16,
+    "load_gw": 12.6,
+    "frequency_hz": 60.01,
+    "red_nodes": 6,
+    "v2g_discharge_mw": 22.5
+  },
+  {
+    "hour": 17,
+    "load_gw": 10.7,
+    "frequency_hz": 60.0,
+    "red_nodes": 3,
+    "v2g_discharge_mw": 33.2
+  },
+  {
+    "hour": 18,
+    "load_gw": 8.3,
+    "frequency_hz": 60.03,
+    "red_nodes": 2,
+    "v2g_discharge_mw": 26.6
+  },
+  {
+    "hour": 19,
+    "load_gw": 8.4,
+    "frequency_hz": 60.03,
+    "red_nodes": 3,
+    "v2g_discharge_mw": 21.1
+  },
+  {
+    "hour": 20,
+    "load_gw": 9.0,
+    "frequency_hz": 60.02,
+    "red_nodes": 1,
+    "v2g_discharge_mw": 4.8
+  },
+  {
+    "hour": 21,
+    "load_gw": 10.6,
+    "frequency_hz": 60.01,
+    "red_nodes": 5,
+    "v2g_discharge_mw": 5.4
+  },
+  {
+    "hour": 22,
+    "load_gw": 12.8,
+    "frequency_hz": 59.99,
+    "red_nodes": 4,
+    "v2g_discharge_mw": 7.8
+  },
+  {
+    "hour": 23,
+    "load_gw": 13.4,
+    "frequency_hz": 60.0,
+    "red_nodes": 4,
+    "v2g_discharge_mw": 6.5
+  }
+]
