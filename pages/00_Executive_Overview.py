@@ -177,7 +177,7 @@ def main():
 
     evidence = [
         ("📄", "Zenodo", "DOI Published"),
-        ("🔒", "BOIP", "EU Registered IP"),
+        ("🔒", "BOIP", "Date-Stamped IP Evidence"),
         ("💻", "GitHub", "Architecture Showcase"),
         ("📊", "ResearchGate", "Technical Report"),
     ]
