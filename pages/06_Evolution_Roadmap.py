@@ -1,4 +1,4 @@
-"""Evolution Roadmap — The engineering journey from concept to production-grade platform."""
+"""Evolution Roadmap — The engineering journey from concept to a large-scale engineering platform."""
 
 import textwrap
 
@@ -62,7 +62,7 @@ PHASES = [
     {
         "icon": "✅",
         "title": "Verification & Assessment",
-        "question": "How was correctness demonstrated?",
+        "question": "How was computational correctness assessed?",
         "outcomes": [
             "Synthetic demonstrator",
             "Architecture Explorer",
