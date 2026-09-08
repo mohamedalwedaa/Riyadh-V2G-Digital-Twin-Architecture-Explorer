@@ -197,7 +197,7 @@ def render_footer():
             padding: 8px 0;
             margin-bottom: 8px;
         ">
-            © 2026 Mohamed Alwedaa. All rights reserved. | Architecture Explorer — Not the Production Platform
+            © 2026 Mohamed Alwedaa. All rights reserved. | Architecture Explorer — Not the Large-Scale Platform
         </div>
         """,
         unsafe_allow_html=True,
