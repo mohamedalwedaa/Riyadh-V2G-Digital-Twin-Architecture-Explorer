@@ -55,7 +55,7 @@ def main():
         unsafe_allow_html=True,
     )
 
-    # ── Hero Illustration — Production → Explorer → Demo ────
+    # ── Hero Illustration — Large-scale → Explorer → Demo ────
     st.markdown(
         textwrap.dedent(f"""\
         <div style="
