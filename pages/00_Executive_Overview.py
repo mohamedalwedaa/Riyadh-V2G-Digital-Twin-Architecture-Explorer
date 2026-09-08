@@ -49,7 +49,7 @@ def main():
                 font-size: 1rem;
                 margin: 0;
                 line-height: 1.5;
-            ">A production-scale Digital Twin engineered for grid flexibility, software architecture, and deterministic system design.</p>
+            ">A large-scale Digital Twin framework engineered for grid flexibility, software architecture, and deterministic system design.</p>
         </div>
         """),
         unsafe_allow_html=True,
