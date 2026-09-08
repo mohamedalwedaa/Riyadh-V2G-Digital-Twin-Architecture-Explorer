@@ -332,7 +332,7 @@ def main():
         f'<p style="color:{TEXT_SECONDARY};font-size:0.92rem;'
         f'margin:-12px 0 24px 24px;line-height:1.5;">'
         'The Architecture Explorer illustrates six representative execution stages. '
-        'The Production Platform extends the same execution contract across '
+        'The Large-Scale Platform extends the same execution contract across '
         '29 specialised stages.'
         '</p>',
         unsafe_allow_html=True,
@@ -383,7 +383,7 @@ def main():
     # Annotation
     st.markdown(
         f'<div style="color:{TEXT_SECONDARY};font-size:0.78rem;line-height:1.6;">'
-        f'<strong style="color:{PRIMARY};">Production Platform:</strong> '
+        f'<strong style="color:{PRIMARY};">Large-Scale Platform:</strong> '
         f'29 execution stages<br>'
         f'<strong style="color:{PRIMARY};">Architecture Explorer:</strong> '
         f'6 representative stages<br>'
@@ -425,7 +425,7 @@ def main():
         verifiable.
         </p>
         <p style="color:{TEXT_PRIMARY};font-size:1rem;line-height:1.7;margin-bottom:16px;">
-        The Production Platform applies exactly the same execution contract across
+        The Large-Scale Platform applies exactly the same execution contract across
         29 specialised stages. Every stage is independently testable. Every
         interface is explicit. Every execution path is deterministic.
         </p>
