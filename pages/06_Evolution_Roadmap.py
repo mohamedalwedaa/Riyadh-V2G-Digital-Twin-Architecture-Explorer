@@ -278,7 +278,7 @@ def main():
         </p>
         <p style="color:{TEXT_PRIMARY};font-size:1rem;line-height:1.7;margin-bottom:16px;">
         Research established the direction. Architecture defined the structure.
-        Engineering transformed the design into software. Validation demonstrated
+        Engineering transformed the design into software. Verification & Assessment demonstrated
         correctness. Publication provided public transparency. Protection secured
         the resulting intellectual property.
         </p>
