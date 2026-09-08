@@ -43,7 +43,7 @@ def main():
                 font-weight: 700;
                 margin: 0 0 6px 0;
                 line-height: 1.3;
-            ">From Architecture to Distribution-Scale Grid Flexibility Research</p>
+            ">From Architecture to Large-Scale V2G Digital Twin for Distribution-Grid Flexibility</p>
             <p style="
                 color: {TEXT_SECONDARY};
                 font-size: 1rem;
