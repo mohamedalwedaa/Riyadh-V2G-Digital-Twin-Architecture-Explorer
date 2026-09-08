@@ -257,7 +257,7 @@ def main():
     st.markdown(
         textwrap.dedent(f"""\
         <p style="color:{TEXT_PRIMARY};font-size:1rem;line-height:1.7;margin-bottom:16px;">
-        Each artefact can be independently verified without access to the Production
+        Each artefact can be independently verified without access to the Large-Scale
         Platform or its proprietary implementation.
         </p>
         """),
