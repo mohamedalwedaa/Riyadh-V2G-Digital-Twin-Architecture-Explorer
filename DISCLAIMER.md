@@ -1,7 +1,7 @@
 # Disclaimer
 
-No production algorithms, data, or implementation details are included
-in this repository. The Production Platform is protected under EU BOIP
+No Large-Scale Platform algorithms, data, or implementation details are included
+in this repository. The Large-Scale Platform is protected under EU BOIP
 i-DEPOT #161617. This repository is intentionally simplified and contains
 only architectural demonstrations using synthetic data.
 
