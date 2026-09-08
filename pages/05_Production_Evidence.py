@@ -155,8 +155,8 @@ def main():
 
     metric_card_row([
         {
-            "title": "EU IP Registration",
-            "value": "BOIP i-DEPOT",
+            "title": "BOIP i-DEPOT",
+            "value": "Date-Stamped IP Evidence",
             "subtitle": "#161617",
             "annotation": "Public registration record",
         },
