@@ -36,7 +36,7 @@ PIPELINE_EXPLORER = st.Page(
 
 PRODUCTION_SCALE = st.Page(
     "pages/03_Production_Scale.py",
-    title="large-scale Digital Twin framework",
+    title="large-scale Digital Twin Framework",
     icon=":material/ssid_chart:",
 )
 
@@ -48,7 +48,7 @@ ENGINEERING_DECISIONS = st.Page(
 
 PRODUCTION_EVIDENCE = st.Page(
     "pages/05_Production_Evidence.py",
-    title="framework Evidence",
+    title="Framework Evidence",
     icon=":material/verified:",
 )
 
