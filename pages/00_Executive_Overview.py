@@ -72,7 +72,7 @@ def main():
         ">
             <div style="text-align: center; min-width: 140px;">
                 <div style="font-size: 2rem; margin-bottom: 6px;">⚙️</div>
-                <div style="color: {TEXT_PRIMARY}; font-weight: 600; font-size: 0.9rem;">Production Platform</div>
+                <div style="color: {TEXT_PRIMARY}; font-weight: 600; font-size: 0.9rem;">Large-Scale Platform</div>
                 <div style="color: {TEXT_SECONDARY}; font-size: 0.7rem;">60K Transformers · 1M EVs</div>
             </div>
             <div style="color: {ACCENT}; font-size: 1.5rem; font-weight: 700;">→</div>
@@ -228,7 +228,7 @@ def main():
         textwrap.dedent(f"""\
         <p style="color: {TEXT_PRIMARY}; font-size: 1rem; line-height: 1.7; margin-bottom: 16px;">
         This is <strong>not a simulation</strong>. No production algorithms, dispatch logic,
-        computational models, or calibration data are included. The production platform is
+        computational models, or calibration data are included. The Large-Scale Platform is
         protected intellectual property. All data shown is synthetic and at a reduced demo
         scale, intended solely to illustrate the architecture's structure and behaviour.
         </p>
@@ -238,7 +238,7 @@ def main():
 
     # ── Callouts ─────────────────────────────────────────────
     info_callout(
-        "For private demonstrations of the full-scale production platform, including "
+        "For private demonstrations of the full-scale Large-Scale Platform, including "
         "proprietary computational models and protected engineering capabilities, "
         "please contact the author. Available under NDA.",
         callout_type="protected",
