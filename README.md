@@ -2,8 +2,8 @@
 
 **This is NOT a simulation. This is an architectural portfolio.**
 
-The Production Platform is protected under EU BOIP i-DEPOT #161617.
-No production algorithms, data, or implementation details are included
+The large-scale Platform is protected under EU BOIP i-DEPOT #161617.
+No Platform algorithms, data, or implementation details are included
 in this repository.
 
 An interactive engineering portfolio demonstrating the software
@@ -19,7 +19,7 @@ planning.
 - Engineering portfolio
 
 **Not Included:**
-- Production Platform implementation
+- large-scale Platform implementation
 - Dispatch algorithms
 - Physics models
 - Calibration data
