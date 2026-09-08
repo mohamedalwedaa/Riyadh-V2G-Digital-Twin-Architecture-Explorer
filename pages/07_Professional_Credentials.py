@@ -66,7 +66,7 @@ def main():
                 color:{TEXT_SECONDARY};
                 font-size:0.92rem;
                 line-height:1.7;
-            ">Architect of the Riyadh V2G Sovereign Digital Twin — a production-scale
+            ">Architect of the Riyadh V2G Sovereign Digital Twin — a large-scale
             digital twin platform for infrastructure planning, engineering analysis,
             and grid flexibility research. Developed as an independent engineering
             project with a strong emphasis on architecture, reproducibility, and
@@ -178,7 +178,7 @@ def main():
     st.markdown(
         textwrap.dedent(f"""\
         <p style="color:{TEXT_PRIMARY};font-size:1rem;line-height:1.7;margin-bottom:16px;">
-        This platform was engineered as production software rather than academic
+        This platform was engineered as production-oriented engineering practices
         software. Architectural clarity, deterministic execution, reproducibility,
         testing, and documentation were treated as first-class engineering
         requirements from the beginning.
