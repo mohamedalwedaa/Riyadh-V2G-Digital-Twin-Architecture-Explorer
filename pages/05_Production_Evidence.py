@@ -1,4 +1,4 @@
-"""Production Evidence — Public artefacts and measurable engineering indicators."""
+"""Framework Evidence — Public artefacts and measurable engineering indicators."""
 
 import textwrap
 
@@ -104,7 +104,7 @@ def _render_artefacts_table(rows: list[tuple[str, str]]):
 def main():
     # ── Page Header ──────────────────────────────────────────
     page_header(
-        "Production Evidence",
+        "Large-Scale Platform Evidence",
         "Public artefacts and measurable engineering indicators",
     )
 
@@ -230,7 +230,7 @@ def main():
 
     _render_artefacts_table([
         ("Zenodo Research Publication", "Permanent DOI"),
-        ("BOIP Intellectual Property Registration", "Public Registration"),
+        ("BOIP i-DEPOT", "Public Registration"),
         ("GitHub Architecture Showcase", "Public Repository"),
         ("ResearchGate Technical Report", "Public Publication"),
     ])
@@ -291,7 +291,7 @@ def main():
         textwrap.dedent(f"""\
         <p style="color:{TEXT_PRIMARY};font-size:1rem;line-height:1.7;margin-bottom:16px;">
         This portfolio intentionally does not expose source code, algorithms,
-        calibration datasets, optimisation strategies, production configuration,
+        calibration datasets, optimisation strategies, platform  configuration,
         or implementation details. These remain protected intellectual property
         and are available only through private technical demonstrations under NDA.
         </p>
@@ -301,7 +301,7 @@ def main():
 
     # ── Section 8: Callout ───────────────────────────────────
     info_callout(
-        "A private technical demonstration of the complete production platform "
+        "A private technical demonstration of the complete Large-Scale platform "
         "— including live execution, architecture walkthrough, engineering discussion, "
         "and implementation review — is available under NDA.",
         callout_type="protected",
