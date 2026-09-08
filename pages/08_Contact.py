@@ -46,7 +46,7 @@ def main():
     section_title("Private Demonstration")
 
     info_callout(
-        "The complete production platform — including live execution, "
+        "The full implementation platform — including live execution, "
         "architectural deep dives, interactive component exploration, and "
         "engineering discussions — is available through private technical "
         "demonstrations under NDA.",
