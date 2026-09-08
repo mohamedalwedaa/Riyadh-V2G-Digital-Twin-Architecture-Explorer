@@ -33,7 +33,7 @@ CARD_SPACING = {
 # ── Watermark ──────────────────────────────────────────────────
 
 WATERMARK_TEXT = (
-    "Architecture Explorer — Not the Production Platform | "
+    "Architecture Explorer — Not the Large-Scale Platform | "
     "Demo Scale: 97 transformers / 512 EVs "
     "(Production Platform: 60,000 / 1,000,000)"
 )
