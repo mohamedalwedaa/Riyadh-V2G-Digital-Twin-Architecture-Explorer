@@ -8,7 +8,7 @@ in this repository.
 
 An interactive engineering portfolio demonstrating the software
 architecture, execution design, and engineering decisions behind a
-sovereign-scale Digital Twin for grid flexibility and infrastructure
+large-scale Digital Twin for grid flexibility and infrastructure
 planning.
 
 ## Repository Scope
