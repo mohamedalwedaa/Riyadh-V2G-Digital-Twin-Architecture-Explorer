@@ -244,7 +244,7 @@ def main():
         )
 
         achievements = [
-            "Production-scale architecture",
+            "Large-scale architecture",
             "Published research",
             "Protected intellectual property",
             "Public architecture showcase",
