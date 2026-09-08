@@ -4,8 +4,8 @@ Riyadh V2G Digital Twin — Architecture Explorer — Multi-page Streamlit Appli
 This is NOT a simulation. This is an architectural portfolio demonstrating
 the software architecture of a proprietary Digital Twin platform.
 
-The Production Platform is protected under EU BOIP i-DEPOT #161617.
-No production algorithms, data, or implementation are included.
+The Large-Scale Platform is protected under EU BOIP i-DEPOT #161617.
+No Platform algorithms, data, or implementation are included.
 """
 
 import streamlit as st
@@ -48,7 +48,7 @@ ENGINEERING_DECISIONS = st.Page(
 
 PRODUCTION_EVIDENCE = st.Page(
     "pages/05_Production_Evidence.py",
-    title="Production Evidence",
+    title="large-scale Digital Twin framework",
     icon=":material/verified:",
 )
 
