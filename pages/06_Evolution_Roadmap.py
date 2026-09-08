@@ -202,7 +202,7 @@ def main():
     # ── Page Header ──────────────────────────────────────────
     page_header(
         "Evolution Roadmap",
-        "The engineering journey from concept to production-grade platform",
+        "The engineering journey from concept to large-scale engineering platform",
     )
 
     st.markdown(
