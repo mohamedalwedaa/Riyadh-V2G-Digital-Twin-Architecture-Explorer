@@ -61,7 +61,7 @@ PHASES = [
     },
     {
         "icon": "✅",
-        "title": "Validation",
+        "title": "Verification & Assessment",
         "question": "How was correctness demonstrated?",
         "outcomes": [
             "Synthetic demonstrator",
